@@ -1,5 +1,5 @@
 # Backend_LearningPath
-Backend learning path project using Nodejs,express and MongoDb
+Backend learning path project using Nodejs,express and MongoDB
 
 Steps:
 1) Clone or download project
